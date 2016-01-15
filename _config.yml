@@ -1,0 +1,28 @@
+name: guarna
+favicon: null
+layout_spectrum: 0.3584925092291087
+typography_spectrum: 0.70816734386608
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.3149528217036277
+  lightness: 0.12177462945692241
+  saturation: 0.10216418001800776
+  rhythmicContrast: 0.7596577394288033
+purpose: []
